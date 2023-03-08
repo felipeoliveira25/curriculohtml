@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+
+body{
+    box-sizing: border-box;
+    background-color: #ffb27f;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Tilt Warp' , sans-serif;
+}
+
+.imagem_camaleao {
+    height: 200px;
+    border-radius: 100%;
+}
+
+h1 {
+    color: #000;
+}
+
+li {
+    font-size: 20px;
+}
